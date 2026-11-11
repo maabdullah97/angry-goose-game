@@ -32,3 +32,6 @@ The objective is to control a goose and hit a target. The game demonstrates fund
 - Introduce additional targets
 - Improve the game interface
 - Add increasing difficulty levels
+## Game Screenshot
+
+![Angry Goose Game Screenshot](game-screenshot.png)
